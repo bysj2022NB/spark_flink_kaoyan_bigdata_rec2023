@@ -128,19 +128,6 @@ https://www.bilibili.com/video/BV1SS4y1W7aN?spm_id_from=333.999.0.0
 
 
 
-## 创新点
-
-使用Python的Scrapy爬虫技术爬取多站点新闻数据；
-
-使用TD-IDF等机器学习算法完成新闻情感分析
-
-使用短信接口完整前端用户通过手机号修改密码功能；
-
-使用支付宝沙箱支付完成充值功能(付费下载)；
-
-使用百度AI图像识别接口完成用户认证身份证自动识别功能；
-
-使用apache-echarts+SparkSQL完成数据分析+大屏统计
 
 
 
